@@ -12,7 +12,7 @@ I'm an IT enthusiast with a passion for building user-friendly web experiences a
 ## 💼 Professional Experience
 · **Frontend Developer @ Epinium S.L** (10/2023 – 07/2024): Built and maintained dynamic web applications, focusing on seamless user interfaces.
 · **Technical Helpdesk @ Merkia 360 S.L** (03/2022 – 06/2022): Provided tech support, ensuring smooth operation of hardware and software systems.
-· **Store Manager @ Dismoda** (07/2024 – 11/2024): Led store operations, from layout design to inventory and financial management.
+· **Shop Assistant @ Dismoda** (07/2024 – 11/2024): Led store operations, from layout design to inventory and financial management.
 
 ## 📚 Education
 · **Professional Training in Web Development** (09/2022 – 06/2024) - Escola Pia Mataró
@@ -22,5 +22,5 @@ I'm an IT enthusiast with a passion for building user-friendly web experiences a
 Currently deepening my knowledge of modern JavaScript frameworks and cloud technologies to further enhance my skills as a developer.
 
 ## 📫 How to Reach Me
-- **E-mail:** [adrianagarciargz@gmail.com](mailto:adrianagarciargz@gmail.com)
-- **LinkedIn:** [Adriana García](www.linkedin.com/in/adriana-garcia-817005292)
+· **E-mail:** [adrianagarciargz@gmail.com](mailto:adrianagarciargz@gmail.com)
+· **LinkedIn**: [Adriana García](https://www.linkedin.com/in/adriana-garcia-817005292/)
